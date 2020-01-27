@@ -1,0 +1,4 @@
+hello friends, i am hee rajesh
+:wq
+
+exit
